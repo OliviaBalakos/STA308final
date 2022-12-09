@@ -31,3 +31,4 @@
 | How to change a variable                        | mutate(x) | x.assign()     |
 
 ##### Throughout the course of STA308, the most helpful examples were the palmer penguins and pregnancy data. These two were robust examples of data handling and functions that were easy to follow in class and after class when reviewing notes for homework. Palmer penguins was useful when I needed to remember how to mutate a variable or which order I needed to use data handling verbs in such as filter(), select(), or group_by(). The pregnancy data was also helpful for understanding functions and the syntax for a loop. 
+
