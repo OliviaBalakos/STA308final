@@ -9,7 +9,7 @@
 
 #### The coefficent of variation is the standard deviation divided by the mean, which is essentially a representation of how frequent the data is distribited throughout the dataset. 
 
-#### The average percent differences between diesel and regular gas for the four regions showed some variety. 
+#### The average percent differences between diesel and regular gas for the four regions show some variety. The mean percent increase from regular to diesel gas prices in the South was the highest at around 57%, while the lowest mean percent increase was in the West at approximately 33%. The highest standard deviation for percent increase in the prices was in the West at 14%, while the lowest was 3.02% in the Northeast, with a close second in the South at 3.89%. The coefficent of variation percent differnece was highest in the West at 42% and the lowest in the Northeast at 5%. 
 
 
 
